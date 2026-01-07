@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tonCIP.github.io/sitemap.xml
+Sitemap: https://iuytresdcvbhnt-gagj2750.netlify.app/sitemap.xml
 
 # Optimisation pour les moteurs de recherche
 User-agent: Googlebot

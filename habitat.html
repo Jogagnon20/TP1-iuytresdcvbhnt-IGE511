@@ -18,6 +18,9 @@
     <meta property="og:locale" content="fr_CA">
     <meta property="og:image" content="https://gagj2750.github.io/iuytresdcvbhnt-habitat.jpg">
     
+    <!-- Lien vers la page Facebook -->
+    <meta property="og:see_also" content="https://www.facebook.com/share/1DSrpUurTw/">
+    
     <!-- Meta Tags Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Habitat de l'iuytresdcvbhnt">
@@ -348,6 +351,73 @@
             text-decoration: underline;
         }
 
+        /* Réseaux sociaux */
+        .social-links {
+            background: white;
+            padding: 20px;
+            border-radius: 15px;
+            margin-bottom: 20px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+            text-align: center;
+        }
+
+        .social-links h3 {
+            color: #2c3e50;
+            margin-bottom: 15px;
+            font-size: 1.2em;
+        }
+
+        .social-button {
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            padding: 12px 25px;
+            background: #1877f2;
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: bold;
+            margin: 5px;
+            transition: all 0.3s ease;
+            box-shadow: 0 3px 10px rgba(24, 119, 242, 0.3);
+        }
+
+        .social-button:hover {
+            background: #166fe5;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(24, 119, 242, 0.5);
+        }
+
+        .social-icon {
+            font-size: 1.3em;
+        }
+
+        /* Footer social links */
+        .footer-social {
+            margin-top: 25px;
+            padding-top: 25px;
+            border-top: 2px solid #e0e0e0;
+        }
+
+        .footer-social p {
+            margin-bottom: 15px;
+            color: #555;
+            font-weight: bold;
+        }
+
+        .footer-social a {
+            display: inline-block;
+            margin: 0 10px;
+            color: #1877f2;
+            text-decoration: none;
+            font-size: 2em;
+            transition: transform 0.3s ease;
+        }
+
+        .footer-social a:hover {
+            transform: scale(1.2);
+        }
+
         /* Optimisation Mobile */
         @media screen and (max-width: 768px) {
             .container {
@@ -469,6 +539,15 @@
                 <li><a href="index.html#conservation">🛡️ Conservation</a></li>
             </ul>
         </nav>
+
+        <!-- Réseaux sociaux -->
+        <div class="social-links">
+            <h3>🌐 Suivez l'iuytresdcvbhnt sur les réseaux</h3>
+            <a href="https://www.facebook.com/share/1DSrpUurTw/" target="_blank" rel="noopener noreferrer" class="social-button">
+                <span class="social-icon">📘</span>
+                <span>Suivre sur Facebook</span>
+            </a>
+        </div>
 
         <!-- Fil d'Ariane -->
         <div class="breadcrumb">
@@ -721,9 +800,21 @@
                 <h3>📝 Registre des changements</h3>
                 
                 <div class="changelog-entry">
+                    <p class="changelog-date"><span class="emoji-icon">📅</span>2025-01-08 - Version 1.1</p>
+                    <p>Ajout de liens vers la page Facebook officielle, optimisation mobile, ajout d'icônes de réseaux sociaux dans le footer.</p>
+                </div>
+
+                <div class="changelog-entry">
                     <p class="changelog-date"><span class="emoji-icon">📅</span>2025-01-08 - Version 1.0</p>
                     <p>Création de la page habitat avec liens vers la page principale, optimisation SEO pour "iuytresdcvbhnt habitat", ajout de contenus complémentaires sur l'environnement de l'iuytresdcvbhnt.</p>
                 </div>
+            </div>
+
+            <div class="footer-social">
+                <p>Rejoignez la communauté iuytresdcvbhnt</p>
+                <a href="https://www.facebook.com/share/1DSrpUurTw/" target="_blank" rel="noopener noreferrer" title="Facebook">📘</a>
+                <a href="https://twitter.com/VotreCompte" target="_blank" rel="noopener noreferrer" title="Twitter">🐦</a>
+                <a href="https://www.instagram.com/VotreCompte" target="_blank" rel="noopener noreferrer" title="Instagram">📷</a>
             </div>
         </footer>
     </div>

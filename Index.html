@@ -349,6 +349,180 @@
             width: 500;
             height: 400;
         }
+        /* Réseaux sociaux */
+        .social-links {
+            background: white;
+            padding: 20px;
+            border-radius: 15px;
+            margin-bottom: 20px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+            text-align: center;
+        }
+
+        .social-links h3 {
+            color: #2c3e50;
+            margin-bottom: 15px;
+            font-size: 1.2em;
+        }
+
+        .social-button {
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            padding: 12px 25px;
+            background: #1877f2;
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: bold;
+            margin: 5px;
+            transition: all 0.3s ease;
+            box-shadow: 0 3px 10px rgba(24, 119, 242, 0.3);
+        }
+
+        .social-button:hover {
+            background: #166fe5;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(24, 119, 242, 0.5);
+        }
+
+        .social-icon {
+            font-size: 1.3em;
+        }
+
+        /* Footer social links */
+        .footer-social {
+            margin-top: 25px;
+            padding-top: 25px;
+            border-top: 2px solid #e0e0e0;
+        }
+
+        .footer-social p {
+            margin-bottom: 15px;
+            color: #555;
+            font-weight: bold;
+        }
+
+        .footer-social a {
+            display: inline-block;
+            margin: 0 10px;
+            color: #1877f2;
+            text-decoration: none;
+            font-size: 2em;
+            transition: transform 0.3s ease;
+        }
+
+        .footer-social a:hover {
+            transform: scale(1.2);
+        }
+        /* Optimisation Mobile */
+        @media screen and (max-width: 768px) {
+            .container {
+                padding: 10px;
+            }
+
+            h1 {
+                font-size: 2em;
+            }
+
+            h2 {
+                font-size: 1.6em;
+            }
+
+            h3 {
+                font-size: 1.3em;
+            }
+
+            header {
+                padding: 30px 20px;
+            }
+
+            main {
+                padding: 20px;
+            }
+
+            nav {
+                padding: 15px;
+            }
+
+            nav ul {
+                flex-direction: column;
+                gap: 10px;
+            }
+
+            nav a {
+                display: block;
+                text-align: center;
+                padding: 12px;
+            }
+
+            .breadcrumb {
+                padding: 10px 15px;
+                font-size: 0.9em;
+            }
+
+            .subtitle {
+                font-size: 1.1em;
+            }
+
+            .habitat-grid {
+                grid-template-columns: 1fr;
+                gap: 15px;
+            }
+
+            .habitat-card {
+                padding: 20px;
+            }
+
+            .habitat-icon {
+                font-size: 3em;
+            }
+
+            .climate-table {
+                font-size: 0.85em;
+            }
+
+            .climate-table th,
+            .climate-table td {
+                padding: 8px 6px;
+            }
+
+            .cta-button {
+                display: block;
+                margin: 15px auto;
+                padding: 15px 25px;
+                font-size: 1em;
+            }
+
+            footer {
+                padding: 20px;
+            }
+
+            .highlight-box, .warning-box, .link-card {
+                padding: 15px;
+                margin: 15px 0;
+            }
+
+            p {
+                text-align: left;
+            }
+        }
+
+        @media screen and (max-width: 480px) {
+            h1 {
+                font-size: 1.8em;
+            }
+
+            .climate-table {
+                font-size: 0.75em;
+                display: block;
+                overflow-x: auto;
+            }
+
+            .habitat-icon {
+                font-size: 2.5em;
+            }
+        }
     </style>
 </head>
 <body>

@@ -1,11 +1,17 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://iuytresdcvbhnt-gagj2750.netlify.app/sitemap.xml
+Sitemap: https://gagj2750.github.io/sitemap.xml
 
 # Optimisation pour les moteurs de recherche
 User-agent: Googlebot
 Allow: /
+Crawl-delay: 0
 
 User-agent: Bingbot
 Allow: /
+Crawl-delay: 0
+
+# Pages importantes à indexer
+Allow: /index.html
+Allow: /habitat.html

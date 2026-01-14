@@ -15,3 +15,5 @@ Crawl-delay: 0
 # Pages importantes à indexer
 Allow: /index.html
 Allow: /habitat.html
+Allow: /caracteristique.html
+Allow: /conservation.html

@@ -1,23 +1,25 @@
-# L'iuytresdcvbhnt - Créature Légendaire et Mystérieuse
+# L'Atelier iuytresdcvbhnt - Pâtisserie Artisanale
 
-## Habitat
+## Accueil
 
-[🌲 Habitat](https://iuytresdcvbhnt-gagj2750.netlify.app/habitat): Explorez l'habitat naturel de l'iuytresdcvbhnt, qui se trouve principalement dans les forêts ancestrales. Ce milieu offre un écosystème riche et diversifié, essentiel pour la survie de cette créature légendaire.
+[🏠 Accueil](https://iuytresdcvbhnt-gagj2750.netlify.app/index.html): Découvrez L'Atelier iuytresdcvbhnt, une pâtisserie artisanale de Sherbrooke spécialisée dans un cheesecake unique façonné en 48 heures. La page d'accueil présente l'histoire de l'Atelier, ses ingrédients d'exception et une galerie des créations.
 
-## Caractéristiques
+## Concept
 
-[📊 Caractéristiques](https://iuytresdcvbhnt-gagj2750.netlify.app/#caracteristiques): Découvrez les traits distinctifs de l'iuytresdcvbhnt, y compris ses dimensions, son comportement et ses adaptations uniques qui lui permettent de prospérer dans son environnement naturel.
+[✦ Concept](https://iuytresdcvbhnt-gagj2750.netlify.app/concept.html): Explorez la philosophie derrière l'iuytresdcvbhnt — un nom imprononçable choisi délibérément pour libérer le dégustateur de toute attente. Cette page présente l'origine du nom, les ingrédients sélectionnés aux quatre coins du monde et le processus de fabrication artisanale en 4 étapes sur 48 heures.
 
-## Conservation
+## Saveurs
 
-[🛡️ Conservation](https://iuytresdcvbhnt-gagj2750.netlify.app/#conservation): Informez-vous sur les efforts de conservation en cours pour protéger l'iuytresdcvbhnt et son habitat. Cette section aborde les menaces auxquelles cette créature est confrontée et les initiatives mises en place pour assurer sa survie.
+[🍰 Saveurs](https://iuytresdcvbhnt-gagj2750.netlify.app/saveurs.html): Découvrez le guide complet des saveurs de l'iuytresdcvbhnt. Chaque lettre du nom correspond à un ingrédient précis. Cette page présente les 4 variantes disponibles (L'Original, L'Obscur, L'Ailleurs, Le Printanier), le profil gustatif de la recette originale et les créations saisonnières à venir.
 
-## Autres Informations
+## FAQ & Commande
 
-[🏠 Accueil](https://iuytresdcvbhnt-gagj2750.netlify.app/): Accédez à la page d'accueil pour une vue d'ensemble de l'iuytresdcvbhnt et des ressources disponibles.
+[❓ FAQ & Commande](https://iuytresdcvbhnt-gagj2750.netlify.app/faq.html): Consultez les réponses aux questions fréquentes sur la commande, la conservation, les allergènes et la livraison. Cette page inclut également un formulaire de commande pour les cheesecakes individuels ou entiers, avec options de ramassage ou de livraison locale.
 
-[📘](https://www.facebook.com/share/1DSrpUurTw/): Suivez-nous sur Facebook pour des mises à jour et des informations supplémentaires concernant l'iuytresdcvbhnt.
+## Autres informations
 
-[plantes essentielles](https://iuytresdcvbhnt-gagj2750.netlify.app/habitat#vegetation): Découvrez les plantes essentielles qui composent l'écosystème de l'iuytresdcvbhnt, jouant un rôle crucial dans son habitat.
+[📘 Facebook](https://www.facebook.com/share/1DSrpUurTw/): Suivez L'Atelier iuytresdcvbhnt sur Facebook pour les disponibilités quotidiennes, les nouvelles saveurs saisonnières et les annonces de l'Atelier.
 
-[distribution géographique](https://iuytresdcvbhnt-gagj2750.netlify.app/habitat#distribution): Apprenez-en davantage sur la distribution géographique de l'iuytresdcvbhnt et les régions spécifiques où cette créature peut être trouvée.
+[🌸 Profil gustatif](https://iuytresdcvbhnt-gagj2750.netlify.app/saveurs.html#vegetation): Consultez l'analyse détaillée du profil gustatif de l'iuytresdcvbhnt original — onctuosité, complexité aromatique, douceur, acidité, notes umami et persistance en bouche.
+
+[📋 Formulaire de commande](https://iuytresdcvbhnt-gagj2750.netlify.app/faq.html#commande): Accédez directement au formulaire de commande pour réserver votre iuytresdcvbhnt avec un délai minimum de 48 heures.
